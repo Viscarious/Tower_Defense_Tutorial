@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 986df39e76ef9584eb923595a7429fc2
+timeCreated: 1514788350
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {fileID: 8300000, guid: 1d80427862e602442bc41d51e9da2745, type: 3}
+  - death: {fileID: 8300000, guid: 79141de9d5724604cb1c01cea412d249, type: 3}
+  - fireball: {fileID: 8300000, guid: c0d0c4297d075c044850c17a8087e897, type: 3}
+  - gameover: {fileID: 8300000, guid: 5f337f16f6f818349a1e4d8b9b2284c4, type: 3}
+  - hit: {fileID: 8300000, guid: c3bdd7a3520f37f4d8d54ca139cd37f5, type: 3}
+  - level: {fileID: 8300000, guid: c0f8cdcde5cfd0d4295fb61ae706a7ed, type: 3}
+  - newgame: {fileID: 8300000, guid: 8e4e2b26f5bbdd84bac8ee64e1ab621a, type: 3}
+  - rock: {fileID: 8300000, guid: 34abc717d15c7cf468ad565be85c2142, type: 3}
+  - towerbuilt: {fileID: 8300000, guid: 2332ff50e057ead4384b2ca32f70e8e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
